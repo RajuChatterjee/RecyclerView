@@ -17,7 +17,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
- //       // recycle view
+ //       // recycle view test succesfull
+
 
         RecyclerView recyclerView = findViewById(R.id.recyclerview);
 
